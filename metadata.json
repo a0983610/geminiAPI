@@ -1,0 +1,5 @@
+{
+  "name": "Gemini API Interactive Tutor",
+  "description": "An interactive dashboard to demonstrate Gemini API features including Chat History, System Instructions, Configuration, Function Calling (Tools), and Embeddings.",
+  "requestFramePermissions": []
+}
